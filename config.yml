@@ -1,0 +1,14 @@
+baseURL: "http://itisirene.github/"
+languageCode: en-us
+title: "Irene Li's Site"
+theme: PaperMod
+
+params:
+    homeInfoParams:
+        Title: Hi there wave
+        Content: Can be Info, links, about...
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/adityatelange/hugo-PaperMod"
+
