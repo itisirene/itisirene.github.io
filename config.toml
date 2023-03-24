@@ -1,0 +1,4 @@
+baseURL = 'http://itisirene.github/'
+languageCode = 'en-us'
+title = "Irene's Site"
+theme = "pulp"
