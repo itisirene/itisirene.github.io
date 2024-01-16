@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+Hi:) I'm Irene Shang Li, a PhD applicant in Educational Psychology. I am currently advised by [Prof. James Stigler](https://www.psych.ucla.edu/faculty-page/stigler/), working as a Research Assistant at [UCLA Teaching and Learning Lab](https://uclatall.com). My research interest lies at the intersection of mathematics education and psychology.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I graduated from [Duke University](https://duke.edu) and [Duke Kunshan University](https://www.dukekunshan.edu.cn) in 2022, with a bachelor's degree in Applied Mathematics and Computational Sciences. Then in 2023, I received my master's degree in Education (Social Research Methodologies track) from [the School of Education & Information Studies](https://seis.ucla.edu), [University of California, Los Angeles](https://www.ucla.edu). 
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
-
+Happy to connect to talk about everything related to mathematics and mathematics education!
