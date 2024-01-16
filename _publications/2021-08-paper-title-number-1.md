@@ -15,4 +15,4 @@ Seeking to provide insight into the role that English for Academic Purposes (EAP
 [Download paper here](http://itisirene.github.io/files/paper1.pdf)
 
 Recommended citation: Harper, J.; Li, S. (August 2021). Criteria for Selecting Instructors of English for Academic Purposes Courses:
-What Do Students Look for? Journal of English Language Teaching and Linguistics, 6(2).
+What Do Students Look for? Journal of English Language Teaching and Linguistics, 6(2). 
