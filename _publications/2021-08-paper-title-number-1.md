@@ -4,8 +4,8 @@ collection: publications
 permalink: /publications/2021-08-paper-title-number-1
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-08
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+venue: 'Journal of English Language Teaching and Linguistics'
+paperurl: 'http://itisirene.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
