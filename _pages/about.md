@@ -12,4 +12,4 @@ Hi :) I am Irene Shang Li, a PhD applicant in Educational Psychology. Currently 
 
 I earned my bachelor's degree in Applied Mathematics and Computational Sciences from [Duke University](https://duke.edu) and [Duke Kunshan University](https://www.dukekunshan.edu.cn) in 2022. Following that, in 2023, I obtained my master's degree in Education with a concentration in Social Research Methodologies from [the School of Education & Information Studies](https://seis.ucla.edu), [University of California, Los Angeles](https://www.ucla.edu).
 
-I'm passionate about connecting with others to discuss all things related to mathematics and mathematics education. Feel free to reach out—I'd love to engage in thoughtful conversations on these topics :)
+I am passionate about connecting with others to discuss all things related to mathematics and mathematics education. Feel free to reach out—I would love to engage in thoughtful conversations on these topics :)
