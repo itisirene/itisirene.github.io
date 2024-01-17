@@ -2,9 +2,9 @@
 title: "4th Grade Math Teaching Assistant"
 collection: teaching
 type: "Elementary school course"
-permalink: /teaching/2021-spring-teaching-1
+permalink: /teaching/2021-spring-teaching-2
 venue: "Canadian International School of Kunshan, Mathematics"
-date: 2021-02
+date: 2021-02-01
 location: "Kunshan, China"
 ---
 
