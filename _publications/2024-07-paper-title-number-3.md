@@ -2,7 +2,7 @@
 title: "Measures of Math Anxiety among School-Aged Students"
 collection: publications
 permalink: /publications/2024-07-paper-title-number-3
-excerpt: 'This conference presentation is derived from my master capstone project. I will be presenting this paper in July 2024 at the 15th International Congress on Mathematics Education (ICME15).'
+excerpt: 'This literature review is derived from my master capstone project. I will be presenting this paper in July 2024 at the 15th International Congress on Mathematics Education (ICME15) in Sydney, Australia.'
 date: 2024-07-01
 venue: 'Proceedings of the 15th International Congress on Mathematics Education'
 ---
