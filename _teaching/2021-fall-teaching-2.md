@@ -10,15 +10,4 @@ location: "Durham, US"
 
 
 
-
-
-
-
-I created tutorials on effective methods for completing various assignments, including editing videos, doing literature reviews, and carrying out group collaborations.
-===
-
-I facilitated in-class discussions and promoted group collaboration to enhance engagement with coursework.
-===
-
-Conducted office hours to provide guidance on assignments and support academic development for a group of 30 students.
-=======
+I created tutorials on effective methods for completing various assignments, including editing videos, conducting literature reviews, and carrying out group assignments. I facilitated in-class discussions and promoted group collaboration to enhance engagement with coursework. Outside of class, I conducted office hours to provide guidance on assignments and support academic development (e.g. major choice, master and PhD application) for a group of 30 students.
