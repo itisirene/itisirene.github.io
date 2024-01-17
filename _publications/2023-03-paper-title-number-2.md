@@ -1,5 +1,5 @@
 ---
-title: "Should Calculators Be Allowed to Use in College Entrance Examinations in Mathematics: An International Comparison of 30 Countries and Regions’ Calculator Use Policies and Practices in College Entrance Examinations (in Chinese)"
+title: "Should Calculators Be Allowed to Use in College Entrance Examinations in Mathematics: An International Comparison of 30 Countries and Regions Calculator Use Policies and Practices in College Entrance Examinations (in Chinese)"
 collection: publications
 permalink: /publications/2023-03-paper-title-number-2
 excerpt: 'This is a literature review paper.'
@@ -12,6 +12,5 @@ This paper was written during my summer research internship at the Asian Centre 
 
 [Download paper here](http://itisirene.github.io/files/paper2.pdf)
 
-Recommended citation: Li, S.; Li, S.; Fan, L. (March 2023). Can We Introduce Calculators to College Entrance Examinations for
-Mathematics? An International Comparison of 30 Countries and Regions’ Calculator Policy. Journal of East
+Recommended citation: Li, S.; Li, S.; Fan, L. (March 2023). Should Calculators be Allowed to Use in College Entrance Examinations in Mathematics: An International Comparison of 30 Countries and Regions' Calculator Use Policies and Practices in College Entrance Examinations. Journal of East
 China Normal University.
