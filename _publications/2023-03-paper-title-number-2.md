@@ -3,7 +3,7 @@ title: "Should Calculators be Allowed to Use in College Entrance Examinations in
 collection: publications
 permalink: /publications/2023-03-paper-title-number-2
 excerpt: 'This is a literature review paper.'
-date: 2023-03
+date: 2023-03-01
 venue: 'Journal of East China Normal University'
 ---
 
