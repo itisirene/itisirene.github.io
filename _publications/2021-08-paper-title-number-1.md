@@ -1,17 +1,15 @@
 ---
-title: "Measures of Math Anxiety among School-Aged Students"
+title: "Criteria for Selecting Instructors of English for Academic Purposes Courses: What Do Students Look for?"
 collection: publications
-permalink: /publications/2024-07-paper-title-number-3
+permalink: /publications/2021-08-paper-title-number-3
 excerpt: 'This is a conference publication.'
-date: 2024-07-01
-venue: 'Journal 1'
-paperurl: 'http://itisirene.github.io/files/paper3.pdf'
-citation: 'Li, S. (July 2024). Measures of Math Anxiety among School-Aged Students. Paper in proceedings of of the 15th
-International Congress on Mathematics Education (ICME-15), Sydney, Australia.'
+date: 2021-08-01
+venue: 'Journal of English Language Teaching and Linguistics'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://itisirene.github.io/files/paper3.pdf)
+Seeking to provide insight into the role that English for Academic Purposes (EAP) courses play in China’s growing number of joint-venture universities (JVUs), this article reports on a study of the factors that motivate students’ selection of instructors for such courses.
 
-Recommended citation: Li, S. (July 2024). Measures of Math Anxiety among School-Aged Students. Paper in proceedings of of the 15th
-International Congress on Mathematics Education (ICME-15), Sydney, Australia.
+[Download paper here](http://itisirene.github.io/files/paper1.pdf)
+
+Recommended citation: Harper, J.; Li, S. (August 2021). Criteria for Selecting Instructors of English for Academic Purposes Courses:
+What Do Students Look for? Journal of English Language Teaching and Linguistics, 6(2).
