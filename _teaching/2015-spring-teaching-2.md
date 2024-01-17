@@ -1,20 +1,15 @@
 ---
-title: "DKU"
+title: "4th Grade Math Teaching Assistant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2021-01-01
+type: "Elementary school course"
+permalink: /teaching/2021-spring-teaching-1
+venue: "Canadian International School of Kunshan, Mathematics"
+date: 2021-02
 location: "Kunshan, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+I co-taught 4th-grade Mathematics with a senior teacher, and provided after-class math tutoring for 60+ students.
 ======
 
-Heading 2
-======
-
-Heading 3
+I created additional tutoring opportunities and resources for students whose first language was not English.
 ======
