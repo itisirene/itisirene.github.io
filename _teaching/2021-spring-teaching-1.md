@@ -1,12 +1,9 @@
 ---
-title: "4th Grade Math Teaching Assistant"
+title: "4th Grade Mathematics"
 collection: teaching
-type: "Elementary school course"
+type: "Teaching Assistant"
 permalink: /teaching/2021-spring-teaching-1
-excerpt: #'ff'
-venue: "Canadian International School of Kunshan"
-date: 2021-02-01
-location: "Kunshan, China"
+excerpt: 'Canadian International School of Kunshan, Kunshan, China, 2021'
 ---
 
 I co-taught 4th-grade Mathematics with a senior teacher, and provided after-class math tutoring for 60+ students. Besides, I was engaged in after-school tutoring for students whose first language was not English.
