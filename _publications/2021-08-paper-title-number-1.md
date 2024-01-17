@@ -2,7 +2,7 @@
 title: "Criteria for Selecting Instructors of English for Academic Purposes Courses: What Do Students Look for?"
 collection: publications
 permalink: /publications/2021-08-paper-title-number-3
-excerpt: 'This is a conference publication.'
+excerpt: 'This is a qualitative research paper that employed questionnaire surveys and focus groups as its primary data collection methods.'
 date: 2021-08-01
 venue: 'Journal of English Language Teaching and Linguistics'
 ---
