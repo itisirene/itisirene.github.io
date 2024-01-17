@@ -1,5 +1,5 @@
 ---
-title: "Should Calculators Be Allowed to Use in College Entrance Examinations in Mathematics: An International Comparison of 30 Countries and Regions Calculator Use Policies and Practices in College Entrance Examinations (in Chinese)"
+title: "Should Calculators be Allowed to Use in College Entrance Examinations in Mathematics: An International Comparison of 30 Countries and Regions Calculator Use Policies and Practices in College Entrance Examinations"
 collection: publications
 permalink: /publications/2023-03-paper-title-number-2
 excerpt: 'This is a literature review paper.'
