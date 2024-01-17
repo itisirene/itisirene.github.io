@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2021-08-paper-title-number-1
 date: 2021-08
