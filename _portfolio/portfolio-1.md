@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "hihihi"
+excerpt: "hihihhii"
 collection: portfolio
 ---
 
