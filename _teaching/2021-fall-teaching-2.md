@@ -1,18 +1,24 @@
 ---
-title: "4th Grade Math Teaching Assistant"
+title: "Educational Psychology Teaching Assistant"
 collection: teaching
-type: "Elementary school course"
-permalink: /teaching/2021-spring-teaching-2
-venue: "Canadian International School of Kunshan, Mathematics"
-date: 2021-02-01
-location: "Kunshan, China"
+type: "Undergraduate course"
+permalink: /teaching/2021-fall-teaching-2
+venue: "Duke University, EDUC 240: Educational Psychology"
+date: 2021-08-01
+location: "Durham, US"
 ---
 
 
 
 
-I co-taught 4th-grade Mathematics with a senior teacher, and provided after-class math tutoring for 60+ students.
-======
 
-I created additional tutoring opportunities and resources for students whose first language was not English.
-======
+
+
+I created tutorials on effective methods for completing various assignments, including editing videos, doing literature reviews, and carrying out group collaborations.
+===
+
+I facilitated in-class discussions and promoted group collaboration to enhance engagement with coursework.
+===
+
+Conducted office hours to provide guidance on assignments and support academic development for a group of 30 students.
+=======
