@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "About Me"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "itisirene"
 description              : &description "personal description"
 url                      : https://itisirene.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
