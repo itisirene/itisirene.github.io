@@ -1,9 +1,12 @@
 ---
-title: "EDUC 240 Educational Psychology"
+title: "EDUC 240 Educational Psychology Teaching Assistant"
 collection: teaching
-type: "Teaching Assistant"
+type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching-2
-excerpt: "Duke University, Durham, US, 2021"
+venue: "Duke University"
+excerpt: " "
+date: 2021-08-01
+location: "Durham, US"
 ---
 
 
