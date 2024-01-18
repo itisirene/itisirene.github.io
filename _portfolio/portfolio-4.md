@@ -9,5 +9,5 @@ At [the Asian Centre for Mathematics Education](http://acme.ecnu.edu.cn/), I was
 
 I was also involved in organizing and volunteering at [the 14th International Congress on Mathematical Education](https://www.icme14.org/static/en/index.html?v=87534149056). As a junior college student, this experience unveiled the expansive realm of math education research, fostered my connections with global research scholars, and solidified my aspiration to become a math education researcher. Simultaneously, I was determined to become a presenter at ICME-15. The dream did come true—in July 2024, I will be presenting my paper titled ["Measures of Math Anxiety among School-Aged Students"](https://itisirene.github.io/publications/2024-07-paper-title-number-3) in Sydney.
 
-![image](https://github.com/itisirene/itisirene.github.io/images/hihi.png)
+![image](/images/hihi.png)
 
