@@ -7,7 +7,7 @@ date: 2024-07-01
 venue: 'the Proceedings of the 15th International Congress on Mathematics Education'
 ---
 
-This is part of my master's capstone project. I will be presenting this paper in July 2024 at the 15th International Congress on Mathematics Education (ICME15).
+This paper is part of my master's capstone project. I will be presenting this paper in July 2024 at the 15th International Congress on Mathematics Education (ICME15).
 
 [Download paper here](http://itisirene.github.io/files/paper3.pdf)
 
