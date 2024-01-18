@@ -1,5 +1,5 @@
 ---
-title: "The Teaching and Learning Lab, UCLA Department of Psychology"
+title: "The Teaching and Learning Lab, the University of California, Los Angeles"
 excerpt: "Research Assistant (full-time), June 2023 – present"
 collection: portfolio
 ---
