@@ -12,4 +12,4 @@ Hi! I am Irene Shang Li, a first-year doctoral student in Psychological Sciences
 
 I earned my bachelor's degree in Applied Mathematics and Computational Sciences from [Duke University](https://duke.edu) and [Duke Kunshan University](https://www.dukekunshan.edu.cn) in 2022. Following that, I obtained my master's degree in Education with a concentration in Social Research Methodologies from [the School of Education and Information Studies](https://seis.ucla.edu), [University of California, Los Angeles](https://www.ucla.edu). Then I worked with [James Stigler](https://www.psych.ucla.edu/faculty-page/stigler) at [the UCLA Teaching and Learning Lab](https://uclatall.com) before I attended Vanderbilt University.
 
-I am passionate about connecting with others to discuss all things related to mathematics and mathematics education. Feel free to reach out — I would love to engage in thoughtful conversations on these topics!
+I am passionate about all things related to mathematics and mathematics education. Feel free to reach out — I would love to engage in thoughtful conversations on these topics!
