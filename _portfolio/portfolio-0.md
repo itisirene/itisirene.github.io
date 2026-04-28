@@ -1,6 +1,6 @@
 ---
-title: "Asian Centre for Mathematics Education, East China Normal University"
-excerpt: "Summer Research Intern, May 2021 - Dec 2021"
+title: "Children's Learning Lab, Vanderbilt University"
+excerpt: "Doctoral Student, August 2024 - Present"
 collection: portfolio
 ---
 
