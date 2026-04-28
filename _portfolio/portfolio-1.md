@@ -1,6 +1,6 @@
 ---
 title: "Teaching and Learning Lab, the University of California, Los Angeles"
-excerpt: "Full-Time Research Assistant, June 2023 – present"
+excerpt: "Full-Time Research Assistant, June 2023 – Dec 2023"
 collection: portfolio
 ---
 
