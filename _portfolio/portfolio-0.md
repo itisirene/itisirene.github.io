@@ -1,6 +1,6 @@
 ---
 title: "Children's Learning Lab, Vanderbilt University"
-excerpt: "Doctoral Student, August 2024 - Present"
+excerpt: "Doctoral Student, Aug 2024 - Present"
 collection: portfolio
 ---
 
